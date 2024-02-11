@@ -6,7 +6,7 @@
 
 ## Day 1
 
-- [Practise of Arrays in Java](https://github.com/meghna0122/DSA-in-Java/tree/d8f6c9a2e8ed127f7bd6229749f0b3936b59cca7):
+- [Practise of Arrays in Java :](https://github.com/meghna0122/DSA-in-Java/tree/d8f6c9a2e8ed127f7bd6229749f0b3936b59cca7)
   - Linear Search
   - Binary Search
   - Largest Number in an array
