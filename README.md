@@ -1,7 +1,7 @@
 
 ## 100DaysOfCode Day-to-Day Progress
 <p>
-<img src="" alt="100 Days of Code" />
+<img src="https://github.com/meghna0122/100-Days-of-Code/blob/main/100_days_code.jpg" alt="100 Days of Code" />
 </p>
 
 ## Day 1
