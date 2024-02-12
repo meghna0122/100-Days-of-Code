@@ -19,3 +19,8 @@
   - Buy and sell stocks
   - Sorting algorithms
 
+## Day 2
+
+- [Practise of 2D Arrays in Java :](https://github.com/meghna0122/DSA-in-Java/tree/e9462db2b8b279c02b5ab0c37df4a85fcac4ffb2)
+  - 2-D Array Basic Implementation
+  - Spiral Matrix
