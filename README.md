@@ -24,3 +24,9 @@
 - [Practise of 2D Arrays in Java :](https://github.com/meghna0122/DSA-in-Java/tree/e9462db2b8b279c02b5ab0c37df4a85fcac4ffb2)
   - 2-D Array Basic Implementation
   - Spiral Matrix
+
+## Day 3
+
+- [Practise of 2D Arrays in Java :](https://github.com/meghna0122/DSA-in-Java/tree/f3901bd1b9a914a5423a30e48a0933d2fcfc0acf)
+  - Diagonal Sum 
+  - Search In Sorted Matrix Code
