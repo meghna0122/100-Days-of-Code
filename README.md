@@ -30,3 +30,9 @@
 - [Practise of 2D Arrays in Java :](https://github.com/meghna0122/DSA-in-Java/tree/f3901bd1b9a914a5423a30e48a0933d2fcfc0acf)
   - Diagonal Sum 
   - Search In Sorted Matrix Code
+
+## Day 4
+
+- [Practise of 2D Arrays in Java :](https://github.com/meghna0122/DSA-in-Java/tree/db3f7302beb3f813af0b3162ce907e2240348199)
+  - To find frequency of a number in 2d-array
+  - Transpose of a 2d-array
