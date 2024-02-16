@@ -51,3 +51,13 @@
   - String compression
   - To check anagram 
   - Remove duplicates in string
+
+## Day 6
+
+- [Bit Manipulation:](https://github.com/meghna0122/DSA-in-Java/tree/397e0a66e21185b96ba395e487c9846315ae299d)
+  - To check whether a number is odd or even
+  - Bit Manipulation operations
+  - To check whether a number is power of 2 or not
+  - To count set bits in a number
+  - Fast exponential
+  
