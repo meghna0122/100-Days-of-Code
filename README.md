@@ -60,4 +60,12 @@
   - To check whether a number is power of 2 or not
   - To count set bits in a number
   - Fast exponential
+
+## Day 7
+
+- [Bit Manipulation:](https://github.com/meghna0122/DSA-in-Java/tree/55ade302c23fb27a4ee1fdaeade33e750516edec)
+  - Swapping two numbers without using third variable
+  - Adding one to integer
+  - Uppercase to lowercase
+  
   
