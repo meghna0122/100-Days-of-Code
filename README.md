@@ -67,5 +67,12 @@
   - Swapping two numbers without using third variable
   - Adding one to integer
   - Uppercase to lowercase
+
+## Day 8
+
+- [Bit Manipulation:](https://github.com/meghna0122/DSA-in-Java/tree/de60d9cdcbd3d0ed49ec726ad70200083a070759)
+  - Adding two Binary
+  - Binary gap
   
+    
   
