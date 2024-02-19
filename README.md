@@ -73,6 +73,13 @@
 - [Bit Manipulation:](https://github.com/meghna0122/DSA-in-Java/tree/de60d9cdcbd3d0ed49ec726ad70200083a070759)
   - Adding two Binary
   - Binary gap
+
+## Day 9
+
+- [Object Oriented Programming(OOPS):](https://github.com/meghna0122/DSA-in-Java/tree/3af9537b82134b0e307a5d4ed046e939f1a8043f)
+  - Basic oops --> Classes,objects,access modifiers,getter,settter
+  - Constructor, Type of constructors, deep and shallow copy
+  - About Destructor --> garbage collector in java
   
     
   
