@@ -81,5 +81,11 @@
   - Constructor, Type of constructors, deep and shallow copy
   - About Destructor --> garbage collector in java
   
-    
+## Day 10
+
+- [Object Oriented Programming(OOPS):](https://github.com/meghna0122/DSA-in-Java/tree/56cc3e72bcd8dbab95b3b8d2528bfc0df7e7e9bf)
+  - Inheritance-->types of inheritance with examples
+  - Polymorphism 
+  - Method overloading
+      
   
