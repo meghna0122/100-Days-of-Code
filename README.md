@@ -94,5 +94,10 @@
    - Method overriding
    - Abstraction -->Abstract class
    - Learned about Packages in java
+
+## Day 12
+
+- [Object Oriented Programming(OOPS):](https://github.com/meghna0122/DSA-in-Java/tree/016bd9c85d6f7a0acae78e5238ab685404bca9f4)
+   - Abtract class with constructor 
       
   
