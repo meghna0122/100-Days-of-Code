@@ -100,4 +100,9 @@
 - [Object Oriented Programming(OOPS):](https://github.com/meghna0122/DSA-in-Java/tree/016bd9c85d6f7a0acae78e5238ab685404bca9f4)
    - Abtract class with constructor 
       
+## Day 13
+
+- [Object Oriented Programming(OOPS):](https://github.com/meghna0122/DSA-in-Java/tree/76813b12dff0c4c6e65f00454a59ddf9c3d57c60)
+   - Interfaces in java 
+      
   
