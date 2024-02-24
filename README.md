@@ -104,5 +104,13 @@
 
 - [Object Oriented Programming(OOPS):](https://github.com/meghna0122/DSA-in-Java/tree/76813b12dff0c4c6e65f00454a59ddf9c3d57c60)
    - Interfaces in java 
+
+## Day 14
+
+- [Object Oriented Programming(OOPS):](https://github.com/meghna0122/DSA-in-Java/tree/1351f591953b39946d9c03ad2539cf9f65db6e87)
+   - Interface 
+   - Implemented multiple inheritance using interfaces
+   - Static keyword in java
+   - Super keyword in java
       
   
