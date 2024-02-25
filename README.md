@@ -112,5 +112,13 @@
    - Implemented multiple inheritance using interfaces
    - Static keyword in java
    - Super keyword in java
+
+## Day 15
+
+- [Recursion:](https://github.com/meghna0122/DSA-in-Java/tree/7380d6d8394f9cfa60c8f4047bccc559714211ea)
+   - Factorial of a number
+   - Print numbers in decresing order
+   - Print numbers in increasing order
+   - Print sum of first n natural numbers
       
   
