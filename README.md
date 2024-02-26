@@ -121,4 +121,12 @@
    - Print numbers in increasing order
    - Print sum of first n natural numbers
       
+## Day 16
+
+- [Recursion:](https://github.com/meghna0122/DSA-in-Java/tree/ea764a0d8ae8e7449aad7ef4c44be00eb698b77f)
+   - Print nth fibonacci number
+   - check is array is sorted or not
+   - First occurence of a number
+   - Last occurence of a number
+      
   
