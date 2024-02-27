@@ -128,5 +128,12 @@
    - check is array is sorted or not
    - First occurence of a number
    - Last occurence of a number
+
+## Day 17
+
+- [Recursion:](https://github.com/meghna0122/DSA-in-Java/tree/96b75a239aac1d6ee08bdbbd698b10be0e20f92e)
+   - To calculate x power n using recursion
+   
+      
       
   
