@@ -139,6 +139,9 @@
 - [Recursion:](https://github.com/meghna0122/DSA-in-Java/tree/35dc97c5b7f810cfba5ef75ecf5531c83359fbae)
    - Tiling problem using recursion
    
-      
+## Day 19
+
+- [Recursion:](https://github.com/meghna0122/DSA-in-Java/tree/58502a2e8d301dead61c029c0c5dbb763605891d)
+   - To calculate x power n using recursion -- optimized solution     
       
   
