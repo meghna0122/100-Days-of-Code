@@ -144,7 +144,7 @@
 - [Recursion:](https://github.com/meghna0122/DSA-in-Java/tree/58502a2e8d301dead61c029c0c5dbb763605891d)
    - To calculate x power n using recursion -- optimized solution     
       
-## Day 19
+## Day 20
 
 - [Recursion:](https://github.com/meghna0122/DSA-in-Java/tree/51b820a8f24dc8669f7c462f423d17939b5310ab)
    - To remove duplicates in string   
