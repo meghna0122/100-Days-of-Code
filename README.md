@@ -147,5 +147,11 @@
 ## Day 20
 
 - [Recursion:](https://github.com/meghna0122/DSA-in-Java/tree/51b820a8f24dc8669f7c462f423d17939b5310ab)
-   - To remove duplicates in string   
+   - To remove consecutive duplicates in string   
   
+## Day 21
+
+- [Recursion:](https://github.com/meghna0122/DSA-in-Java/tree/ae58d5d80df1c6bf3b8d82bf8aad524d9fe8a1a4)
+   - To remove duplicates in string using recursion
+  
+
