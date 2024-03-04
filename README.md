@@ -154,4 +154,13 @@
 - [Recursion:](https://github.com/meghna0122/DSA-in-Java/tree/ae58d5d80df1c6bf3b8d82bf8aad524d9fe8a1a4)
    - To remove duplicates in string using recursion
   
+## Day 22
 
+- [Recursion:](https://github.com/meghna0122/DSA-in-Java/tree/f0d95080d949e503aea795d4bd3c263aafa1519d)
+   - Friends Pairing problem using recursion
+  
+## Day 22
+
+- [Recursion:](https://github.com/meghna0122/DSA-in-Java/tree/ddb24582cb249eb6788d00bfb055c783ab0ddc75)
+   - Binary String problem using recursion
+  
