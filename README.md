@@ -159,7 +159,7 @@
 - [Recursion:](https://github.com/meghna0122/DSA-in-Java/tree/f0d95080d949e503aea795d4bd3c263aafa1519d)
    - Friends Pairing problem using recursion
   
-## Day 22
+## Day 23
 
 - [Recursion:](https://github.com/meghna0122/DSA-in-Java/tree/ddb24582cb249eb6788d00bfb055c783ab0ddc75)
    - Binary String problem using recursion
