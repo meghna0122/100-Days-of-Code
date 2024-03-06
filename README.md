@@ -163,4 +163,16 @@
 
 - [Recursion:](https://github.com/meghna0122/DSA-in-Java/tree/ddb24582cb249eb6788d00bfb055c783ab0ddc75)
    - Binary String problem using recursion
+
+## Day 24
+
+- [Recursion:](https://github.com/meghna0122/DSA-in-Java/tree/1a9458a84939474f1b223412d62045b1c970413a)
+   - To find index of key elements
+
+## Day 25
+
+- [Recursion:](https://github.com/meghna0122/DSA-in-Java/tree/af0a9558f651db28fb7447549a0ffb34a8274c28)
+   - Other approach to find index of key elements
+   - To convert numbers into String i.e 12->One Two
+   - To find length of String using Recursion
   
