@@ -181,4 +181,16 @@
 - [Recursion:](https://github.com/meghna0122/DSA-in-Java/tree/b4a2866a3088b46f2ef0431d2607fa0d4e6ff822)
    - Count substrings whose first and last letter is same 
    - Tower of hanoi
+
+## Day 27
+
+- [Recursion:](https://github.com/meghna0122/DSA-in-Java/tree/c2c57c166c6fc4e871458c458908e379e24e9733)
+   - Move all x to end of string
+   - Print all subsequences of string
+   - Print keypad combinations
+   - Print all permutations of string 
+   - Print unique permuations of string
+   - To count total path in a maze from (0,0) to (n,m)
+   - To print all subsets of a set of first n natural numbers
+   
   
