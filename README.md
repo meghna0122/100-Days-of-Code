@@ -175,4 +175,10 @@
    - Other approach to find index of key elements
    - To convert numbers into String i.e 12->One Two
    - To find length of String using Recursion
+
+## Day 26
+
+- [Recursion:](https://github.com/meghna0122/DSA-in-Java/tree/b4a2866a3088b46f2ef0431d2607fa0d4e6ff822)
+   - Count substrings whose first and last letter is same 
+   - Tower of hanoi
   
