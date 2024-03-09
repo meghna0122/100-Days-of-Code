@@ -192,5 +192,10 @@
    - Print unique permuations of string
    - To count total path in a maze from (0,0) to (n,m)
    - To print all subsets of a set of first n natural numbers
-   
-  
+
+## Day 28
+
+- [Divide and Conquer:]( https://github.com/meghna0122/DSA-in-Java/tree/ec5ad22c746c5e3885f65ebdbae383222d7ba086)
+   - Merge Sort and its Time complexity
+   - Quick Sort and its time complexity with worst case
+   - To Search index of an element in an sorted rotated array
