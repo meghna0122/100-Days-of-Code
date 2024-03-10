@@ -199,3 +199,11 @@
    - Merge Sort and its Time complexity
    - Quick Sort and its time complexity with worst case
    - To Search index of an element in an sorted rotated array
+
+## Day 29
+
+- [Divide and Conquer:](https://github.com/meghna0122/DSA-in-Java/tree/25895bba2b0a3864b576136bf4eb8a5a1df323a6)
+   - Merge Sort to sort array of Strings
+   - Majority Element using Brute Force O(n^2)
+   - Majority Element using Optimal approach -> Moore's Voting algorithm O(n)
+   
