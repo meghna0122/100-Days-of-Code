@@ -206,4 +206,10 @@
    - Merge Sort to sort array of Strings
    - Majority Element using Brute Force O(n^2)
    - Majority Element using Optimal approach -> Moore's Voting algorithm O(n)
-   
+
+## Day 30
+
+- [Divide and Conquer:](https://github.com/meghna0122/DSA-in-Java/tree/3159229b004364aa376cb32fd16b27d04f0f48ae)
+   - To find inversion count in array:
+   Solved by: Brute Force -- O(n^2)   
+   Divide and conquer -- O(nlogn)
