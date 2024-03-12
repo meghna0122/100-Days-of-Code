@@ -213,3 +213,11 @@
    - To find inversion count in array:
    Solved by: Brute Force -- O(n^2)   
    Divide and conquer -- O(nlogn)
+
+## Day 31
+
+- [Divide and Conquer & Backtracking Questions:](https://github.com/meghna0122/DSA-in-Java/tree/cad790f05394738266876b30a14a68349014be77)
+   - To find Kth smallest element using Quick Sort
+   - To find Min Max of an array using divide and conquer approach(Merge sort)
+   - Backtracking on Array
+   - To find subsets of a string
