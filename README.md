@@ -216,8 +216,14 @@
 
 ## Day 31
 
-- [Divide and Conquer & Backtracking Questions:](https://github.com/meghna0122/DSA-in-Java/tree/cad790f05394738266876b30a14a68349014be77)
+- [Divide and Conquer & Backtracking :](https://github.com/meghna0122/DSA-in-Java/tree/cad790f05394738266876b30a14a68349014be77)
    - To find Kth smallest element using Quick Sort
    - To find Min Max of an array using divide and conquer approach(Merge sort)
    - Backtracking on Array
    - To find subsets of a string
+
+## Day 32
+
+- [Backtracking:](https://github.com/meghna0122/DSA-in-Java/tree/2df46cc7438eefc06c737f52bdc7c6851b5adbf5)
+   - N-Queen--> O(n!) 
+   - Sudoku Solver
