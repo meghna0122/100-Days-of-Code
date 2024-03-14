@@ -227,3 +227,8 @@
 - [Backtracking:](https://github.com/meghna0122/DSA-in-Java/tree/2df46cc7438eefc06c737f52bdc7c6851b5adbf5)
    - N-Queen--> O(n!) 
    - Sudoku Solver
+
+## Day 33
+
+- [Backtracking:](https://github.com/meghna0122/DSA-in-Java/tree/ba0a62fe4b3a4ea5b8c239416bd2e8e53fb11cbd)
+   - Rat in a maze where we can move up,down,left and right in the maze
