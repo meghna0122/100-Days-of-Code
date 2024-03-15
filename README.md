@@ -232,3 +232,11 @@
 
 - [Backtracking:](https://github.com/meghna0122/DSA-in-Java/tree/ba0a62fe4b3a4ea5b8c239416bd2e8e53fb11cbd)
    - Rat in a maze where we can move up,down,left and right in the maze
+
+## Day 34
+
+- [Backtracking and ArrayList:](https://github.com/meghna0122/DSA-in-Java/tree/e27b5dc28ac2efe462ef028d6675a8b0b8f9d32e)
+   - Rat in a maze
+   - Knight moves
+   - Array list and its operations
+   - Sorting of ArrayList
