@@ -240,3 +240,14 @@
    - Knight moves
    - Array list and its operations
    - Sorting of ArrayList
+
+## Day 35
+
+- [ArrayList:](https://github.com/meghna0122/DSA-in-Java/tree/de97530f65db5e32c3648cfc4cb08716e6a9a36a)
+   - Monotonic Arraylist
+   - Lonely number in ArrayList
+   - Beautiful Array
+   - Multidimensional ArrayList
+   - Container with Most Water
+   - Pair_sum 1-->Sorted array 
+   - Pair_sum 2-->Sorted Rotated array
