@@ -251,3 +251,24 @@
    - Container with Most Water
    - Pair_sum 1-->Sorted array 
    - Pair_sum 2-->Sorted Rotated array
+
+## Day 36
+
+- [ArrayList:](https://github.com/meghna0122/DSA-in-Java/tree/f30ff06ad3591b1edef7a330a2030e202f9e6829)
+   - Roated Array question
+
+## Day 37
+
+- [LinkedList:](https://github.com/meghna0122/DSA-in-Java/tree/0eedc1da7f81e0b8d76ed4fd410f460b110398cc)
+   - Linked List basic operations i.e adding , removing element from list 
+   - Search an element in the linked list (Recursive Approach)
+
+## Day 38
+
+- [LinkedList:](https://github.com/meghna0122/DSA-in-Java/tree/59ef95f91bc51b18d4eb8ee2260cbe3bf4f274c9)
+   - Reverse Linked ist
+   - Remove nth node from last
+   - To check Linked list is palindrom or not
+   - To detect and remove cycle from Linked ist
+
+
