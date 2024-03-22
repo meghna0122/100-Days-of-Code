@@ -266,9 +266,23 @@
 ## Day 38
 
 - [LinkedList:](https://github.com/meghna0122/DSA-in-Java/tree/59ef95f91bc51b18d4eb8ee2260cbe3bf4f274c9)
-   - Reverse Linked ist
+   - Reverse Linked list
    - Remove nth node from last
    - To check Linked list is palindrom or not
    - To detect and remove cycle from Linked ist
 
+## Day 39
 
+- [LinkedList:](https://github.com/meghna0122/DSA-in-Java/tree/07dcf99723a580f7f88186a6e3b55c0d383759c1)
+   - Merge sort on linked list
+   
+## Day 40
+
+- [LinkedList:](https://github.com/meghna0122/DSA-in-Java/tree/912784c9e88792bf65a16209a5deea7606d8db8a)
+   - To print ZigZag linked list
+   
+## Day 41
+
+- [LinkedList:](https://github.com/meghna0122/DSA-in-Java/tree/0254c4e4b9cbb0375165bc515beebb83580e5623)
+   - DoublyLinked list: Add element at first , add at last , remove at first
+   
