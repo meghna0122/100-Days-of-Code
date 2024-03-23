@@ -285,4 +285,16 @@
 
 - [LinkedList:](https://github.com/meghna0122/DSA-in-Java/tree/0254c4e4b9cbb0375165bc515beebb83580e5623)
    - DoublyLinked list: Add element at first , add at last , remove at first
+
+## Day 42
+
+- [LinkedList:](https://github.com/meghna0122/DSA-in-Java/tree/7e456fc7a83e828d423cbd190ea8e5570851f16d)
+   - Reverse a doubly linked list
+   - Find intersection Node between 2 linked list
+   - Delete N nodes after M nodes in linked list
+   - Swap Nodes in linked list
+   - Odd even linked list(To modify linked list such that even no. appear before all odd no.)
+   - Merge k sorted list 
+   
+
    
