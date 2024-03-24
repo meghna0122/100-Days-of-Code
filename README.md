@@ -295,6 +295,11 @@
    - Swap Nodes in linked list
    - Odd even linked list(To modify linked list such that even no. appear before all odd no.)
    - Merge k sorted list 
+
+## Day 43
+
+- [LinkedList:](https://github.com/meghna0122/DSA-in-Java/tree/b35038df82b664cd923af20abec89bfda6ed479e)
+   - To implement stack using arraylist, linkedlist, java collection framework
    
 
    
