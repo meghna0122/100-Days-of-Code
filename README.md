@@ -298,8 +298,15 @@
 
 ## Day 43
 
-- [LinkedList:](https://github.com/meghna0122/DSA-in-Java/tree/b35038df82b664cd923af20abec89bfda6ed479e)
+- [Stack:](https://github.com/meghna0122/DSA-in-Java/tree/b35038df82b664cd923af20abec89bfda6ed479e)
    - To implement stack using arraylist, linkedlist, java collection framework
+
+## Day 44
+
+- [Stack:](https://github.com/meghna0122/DSA-in-Java/tree/9734260f81e1b92591a133baf87d22cacd8122b1)
+   - Push at bottom of stack
+   - Reverse a string using stack
+   - Reverse the stack
    
 
    
