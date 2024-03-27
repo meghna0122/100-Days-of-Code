@@ -307,6 +307,16 @@
    - Push at bottom of stack
    - Reverse a string using stack
    - Reverse the stack
+
+## Day 45
+
+- [Stack:](https://github.com/meghna0122/DSA-in-Java/tree/e5ebcfee1815aa02cb526f2f1542ba3d842c7804)
+   - Stock span problem
+   - Next greater element
+   - Valid parenthesis
+   - Duplicate parenthesis
+   - Maximum histogram area
+
    
 
    
