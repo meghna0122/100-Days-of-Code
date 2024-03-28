@@ -317,6 +317,13 @@
    - Duplicate parenthesis
    - Maximum histogram area
 
+## Day 46
+
+- [Stack:](https://github.com/meghna0122/DSA-in-Java/tree/10878577569b3ac680f69a94f6c981ac95fc9b43)
+   - Ckeck palindrom linkedlist using stack
+   - Decode string problem
+
+
    
 
    
