@@ -323,6 +323,11 @@
    - Ckeck palindrom linkedlist using stack
    - Decode string problem
 
+## Day 47
+
+- [Stack and Queue:](https://github.com/meghna0122/DSA-in-Java/tree/17c04be3eb8ac02aa727ae715ff6ab789497abdf)
+   - Trapping rainwater using stack
+   - Queue implementation using array 
 
    
 
