@@ -329,6 +329,17 @@
    - Trapping rainwater using stack
    - Queue implementation using array 
 
+## Day 48
+
+- [Queue:](https://github.com/meghna0122/DSA-in-Java/tree/332e0a33999768c9df056ff9781a962c9e6b8fa7)
+   - Queue using Linked List
+   - Queue using 2 stack
+   - Stack using 2 queue
+   - To print first non-repeating letter in stream of characters
+   - Interleave 2nd half of queue
+   - Reverse queue
+   - Deque and implementing stack using deque
+
    
 
    
