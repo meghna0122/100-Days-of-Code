@@ -340,6 +340,11 @@
    - Reverse queue
    - Deque and implementing stack using deque
 
+## Day 49
+
+- [Queue:](https://github.com/meghna0122/DSA-in-Java/tree/b333497a8402dae28d9badb213263407e6b1cf01)
+   - Generate Binary number
+
    
 
    
