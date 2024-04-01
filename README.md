@@ -345,6 +345,12 @@
 - [Queue:](https://github.com/meghna0122/DSA-in-Java/tree/b333497a8402dae28d9badb213263407e6b1cf01)
    - Generate Binary number
 
-   
+## Day 50
+
+- [Queue:](https://github.com/meghna0122/DSA-in-Java/tree/4abef99e85967f66cd1bed91d663eedc42d16357)
+   - Connect n ropes with minimum cost
+   - Leetcode - valid palindrom
+   - Leetcode - valid anagram
+   - Leetcode - valid parenthesis string
 
    
