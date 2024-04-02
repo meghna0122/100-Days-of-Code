@@ -353,4 +353,9 @@
    - Leetcode - valid anagram
    - Leetcode - valid parenthesis string
 
+## Day 51
+
+- [Queue:](https://github.com/meghna0122/DSA-in-Java/tree/229fcb4e26b9ba6e195b1d0e2e564c5d6d66ded2)
+   - Reverse k elements of queue
+   - Maximum of all subarray of size k / Sliding window maximum
    
