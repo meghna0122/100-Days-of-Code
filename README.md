@@ -359,3 +359,8 @@
    - Reverse k elements of queue
    - Maximum of all subarray of size k / Sliding window maximum
    
+## Day 52
+
+- [Greedy Algorithm:](https://github.com/meghna0122/DSA-in-Java/tree/ca0636a154f3b5b10dd40da937f3657292b5d639)
+   - Activity selection
+   - Fractional knapsack
