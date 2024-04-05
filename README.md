@@ -364,3 +364,15 @@
 - [Greedy Algorithm:](https://github.com/meghna0122/DSA-in-Java/tree/ca0636a154f3b5b10dd40da937f3657292b5d639)
    - Activity selection
    - Fractional knapsack
+   
+## Day 53
+
+- [Greedy Algorithm:](https://github.com/meghna0122/DSA-in-Java/tree/123bc319f6dd23b13a808cbd558445dc8641f197)
+   - Minimum absolute difference pair
+   - Maximum length chain of pair
+
+## Day 54
+
+- [Greedy Algorithm:](https://github.com/meghna0122/DSA-in-Java/tree/c5a670cab7fc9c1590708b391d71d1e83ca6068a)
+   - Indian Coin
+   - Job scheduling problem (To maximize profit)
