@@ -376,3 +376,8 @@
 - [Greedy Algorithm:](https://github.com/meghna0122/DSA-in-Java/tree/c5a670cab7fc9c1590708b391d71d1e83ca6068a)
    - Indian Coin
    - Job scheduling problem (To maximize profit)
+
+## Day 55
+
+- [Greedy Algorithm:](https://github.com/meghna0122/DSA-in-Java/tree/0cce00757cdc375da8c7941c18bdbde040b79cb5)
+   - Chocolate problem -> To calcuate minimum cost to cut the chocolate into vertical and horizontal pieces so as to get single square of chocolate(given chocolate of m*n square pieces).
