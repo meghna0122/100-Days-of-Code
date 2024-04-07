@@ -381,3 +381,9 @@
 
 - [Greedy Algorithm:](https://github.com/meghna0122/DSA-in-Java/tree/0cce00757cdc375da8c7941c18bdbde040b79cb5)
    - Chocolate problem -> To calcuate minimum cost to cut the chocolate into vertical and horizontal pieces so as to get single square of chocolate(given chocolate of m*n square pieces).
+
+## Day 56
+
+- [Practise Question:](https://github.com/meghna0122/DSA-in-Java/tree/33657f50166d9c2cd50eb9bf55ab7caa254b3a4)
+   - Multiply 2 linked list
+   - Sort linked list having 0s,1s and 2s
