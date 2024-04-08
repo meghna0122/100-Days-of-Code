@@ -387,3 +387,12 @@
 - [Practise Question:](https://github.com/meghna0122/DSA-in-Java/tree/33657f50166d9c2cd50eb9bf55ab7caa254b3a4)
    - Multiply 2 linked list
    - Sort linked list having 0s,1s and 2s
+
+## Day 57
+
+- [Greedy Algorithm:](https://github.com/meghna0122/DSA-in-Java/tree/566b9ca4c3de659b478ae130f37509688a472a55)
+   - Maximum balanced string partition
+   - Kth largest odd number in range
+   - Lexographically smallest string of length N and sum K
+   - Best time to buy and sell stock
+   - Split into k subarray to minimize maximum sum of subarrays
