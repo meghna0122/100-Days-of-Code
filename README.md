@@ -396,3 +396,9 @@
    - Lexographically smallest string of length N and sum K
    - Best time to buy and sell stock
    - Split into k subarray to minimize maximum sum of subarrays
+
+## Day 58
+
+- [Practise Questions:](https://github.com/meghna0122/DSA-in-Java/tree/b2fcf7c44ae4a403be2afb77372b9ad8ab82e55a)
+   - Minimum sum of formed digits (GFG)
+   - Can Place Flower(Leetcode 605)
