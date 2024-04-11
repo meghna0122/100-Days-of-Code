@@ -402,3 +402,21 @@
 - [Practise Questions:](https://github.com/meghna0122/DSA-in-Java/tree/b2fcf7c44ae4a403be2afb77372b9ad8ab82e55a)
    - Minimum sum of formed digits (GFG)
    - Can Place Flower(Leetcode 605)
+
+## Day 59
+
+- [Binary Tree:](https://github.com/meghna0122/DSA-in-Java/tree/81ba7ae2b171d7bfb57fa07f88adeefcb24ec9b4)
+   - Basics of binary tree
+   - Inorder, preorder, postorder, levelorder
+
+## Day 60
+
+- [Binary Tree:](https://github.com/meghna0122/DSA-in-Java/tree/1d4ff4bbb2793cea323de159ca9daee3bb1e9b80)
+   - Count nodes of tree
+   - Height of tree
+   - sum of nodes of binary tree
+   - Diameter of tree using 2 approachs in O(n*n) and O(n)
+   - To check whether the subtree is of another tree
+   - To print top view of tree
+
+
