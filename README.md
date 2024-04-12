@@ -419,4 +419,17 @@
    - To check whether the subtree is of another tree
    - To print top view of tree
 
+## Day 61
+
+- [Binary Tree:](https://github.com/meghna0122/DSA-in-Java/tree/2e3585cbcae6ea598d2579beca5d88dcd2fa3795)
+   - To print kth level of tree
+   - Lowest common ancestor
+   - Minimum distance between given nodes
+   - Print kth ancestor of given node
+   - Transform data of binary tree 
+   - To check whether tree is univalued or not
+   - Invert binary tree
+   - Delete leaf nodes with target value 
+
+
 
