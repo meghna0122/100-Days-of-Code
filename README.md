@@ -431,5 +431,10 @@
    - Invert binary tree
    - Delete leaf nodes with target value 
 
+## Day 62
+
+- [Binary Tree:](https://github.com/meghna0122/DSA-in-Java/tree/9f1fb1f30cc6a11174466318d49e12b2ec14bd05)
+   - To find all duplicate subtrees in a binary tree
+   - To find maximum path sum in given binary tree
 
 
