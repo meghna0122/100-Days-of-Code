@@ -437,4 +437,13 @@
    - To find all duplicate subtrees in a binary tree
    - To find maximum path sum in given binary tree
 
+## Day 63
+
+- [Binary Search Tree:](https://github.com/meghna0122/DSA-in-Java/tree/d6295f1d52e3130749a583c4ae02c2b7d25b13cf)
+   - Build a Binary Search Tree
+   - Search key in BST
+   - Delete a node from BST
+   - Print nodes in given range 
+
+
 
