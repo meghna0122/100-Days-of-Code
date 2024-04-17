@@ -445,5 +445,20 @@
    - Delete a node from BST
    - Print nodes in given range 
 
+## Day 64
+
+- [Binary Search Tree:](https://github.com/meghna0122/DSA-in-Java/tree/6cb318ef87ef11d10338837dc7b58f2488124733)
+   - To print Root to Leaf path
+
+## Day 65
+
+- [Binary Search Tree:](https://github.com/meghna0122/DSA-in-Java/tree/f640184a5d7815243cb202fd6c7053ecc8636ac4)
+   - To check whether a BST is valid or not
+   - To print mirror of BST
+
+
+
+
+
 
 
