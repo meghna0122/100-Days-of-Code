@@ -456,6 +456,23 @@
    - To check whether a BST is valid or not
    - To print mirror of BST
 
+## Day 66
+
+- [Binary Search Tree:](https://github.com/meghna0122/DSA-in-Java/tree/a601c9632c9ceedad0e7b0ccdc150c7d6ef4775c)
+   - Sorted array to balanced BST
+   - BST to balanced BST
+   
+## Day 67
+
+- [Binary Search Tree:](https://github.com/meghna0122/DSA-in-Java/tree/355f37d95695758e14b4bdde62a157ea342105c9)
+   - size of largest BST in Binary tree
+
+## Day 68
+
+- [Binary Search Tree:](https://github.com/meghna0122/DSA-in-Java/tree/06ce5a9c7e728238625dbc7e89ee8a70c63f6b00)
+   - Merge 2 BSTs to form a balanced BST
+
+
 
 
 
