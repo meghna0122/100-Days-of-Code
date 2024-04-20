@@ -472,6 +472,10 @@
 - [Binary Search Tree:](https://github.com/meghna0122/DSA-in-Java/tree/06ce5a9c7e728238625dbc7e89ee8a70c63f6b00)
    - Merge 2 BSTs to form a balanced BST
 
+## Day 69
+
+- [Binary Search Tree:](https://github.com/meghna0122/DSA-in-Java/tree/06ce5a9c7e728238625dbc7e89ee8a70c63f6b00)
+   - Learned about AVL Trees(self balancing trees).Learned about different rotations for converting non-balanced tree to balanced tree.
 
 
 
