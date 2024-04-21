@@ -477,6 +477,11 @@
 - [Binary Search Tree:](https://github.com/meghna0122/DSA-in-Java/tree/06ce5a9c7e728238625dbc7e89ee8a70c63f6b00)
    - Learned about AVL Trees(self balancing trees).Learned about different rotations for converting non-balanced tree to balanced tree.
 
+## Day 70
+
+- [Binary Search Tree:](https://github.com/meghna0122/DSA-in-Java/tree/af122ab40ec7c1a247804d3289a419532505be2c)
+   - AVL tree code   
+
 
 
 
