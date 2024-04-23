@@ -482,6 +482,10 @@
 - [Binary Search Tree:](https://github.com/meghna0122/DSA-in-Java/tree/af122ab40ec7c1a247804d3289a419532505be2c)
    - AVL tree code   
 
+## Day 71
+
+- [Binary Search Tree:](https://github.com/meghna0122/DSA-in-Java/tree/628925360349a3140e8563c2fe2a4632b1480b56)
+   - Range sum of BST  
 
 
 
