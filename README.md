@@ -487,6 +487,10 @@
 - [Binary Search Tree:](https://github.com/meghna0122/DSA-in-Java/tree/628925360349a3140e8563c2fe2a4632b1480b56)
    - Range sum of BST  
 
+## Day 72
+
+- [Binary Search Tree:](https://github.com/meghna0122/DSA-in-Java/tree/fd88218b3e52299e63edbd942ac4d20355185299)
+   - To find closed element in BST
 
 
 
