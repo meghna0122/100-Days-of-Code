@@ -492,6 +492,12 @@
 - [Binary Search Tree:](https://github.com/meghna0122/DSA-in-Java/tree/fd88218b3e52299e63edbd942ac4d20355185299)
    - To find closed element in BST
 
+## Day 73
+
+- [Binary Search Tree:](https://github.com/meghna0122/DSA-in-Java/tree/fe8b7741333b38659773915f3521d0e8d3fca241)
+   - Kth smallest element in BST
+   - Max sum BST in given binary tree
+
 
 
 
