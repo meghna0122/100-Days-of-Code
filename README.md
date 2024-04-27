@@ -503,6 +503,10 @@
 - [Heap:](https://github.com/meghna0122/DSA-in-Java/tree/547f2731cf1d3e32486c291d8b0355d10f1a765a)
    - Priority queue implementation using integer and objects 
 
+## Day 75
+
+- [Heap:](https://github.com/meghna0122/DSA-in-Java/tree/547f2731cf1d3e32486c291d8b0355d10f1a765a)
+   - Learned about heap 
 
 
 
