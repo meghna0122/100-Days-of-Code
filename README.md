@@ -508,5 +508,11 @@
 - [Heap:](https://github.com/meghna0122/DSA-in-Java/tree/547f2731cf1d3e32486c291d8b0355d10f1a765a)
    - Learned about heap 
 
+## Day 76
+
+- [Heap:](https://github.com/meghna0122/DSA-in-Java/tree/29e9ee031a1cb958a07145adcbe32bcb83e0ffdf)
+   - Insertion and peek operation on min heap
+
+
 
 
